@@ -54,7 +54,7 @@ New cancer drugs can make a real difference to survival and quality of life, but
    install.packages(c("dplyr", "stringr", "janitor", "ggplot2", "gt"))
    ```
 3. Load your dataset into R as `data` (for example with `readxl::read_excel()` or `readr::read_csv()`).
-4. Run `code/APAC_Approval_Delay_Analysis.R` from top to bottom. Tables and figures appear in the RStudio viewer and plot panes.
+4. Run `code/APAC Approval.R` from top to bottom. Tables and figures appear in the RStudio viewer and plot panes.
 
 The script renames some long column names near the top. If your column names differ, adjust that `rename()` step first.
 
@@ -72,4 +72,4 @@ R, with `dplyr`, `stringr`, `janitor`, `ggplot2` and `gt`.
 
 ## Contact
 
-Questions or suggestions are welcome. You can open an issue on this repository or reach me through my GitHub profile.# APAC-Aproval-Delays
+Questions or suggestions are welcome. You can open an issue on this repository or reach me through my GitHub profile.
