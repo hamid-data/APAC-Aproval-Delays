@@ -17,9 +17,9 @@ New cancer drugs can make a real difference to survival and quality of life, but
 ```
 ├── README.md
 ├── code/
-│   └── APAC_Approval_Delay_Analysis.R      # data prep, tables, figures, exploratory tests
+│   └── APAC Approval.R      # data prep, tables, figures, exploratory tests
 └── report/
-    └── APAC_Approval_Delays_Report.docx    # short write-up with tables and figures
+    └── APAC Approval Delays.docx    # short write-up with tables and figures
 ```
 
 ## The data
