@@ -69,9 +69,6 @@ The script renames some long column names near the top. If your column names dif
 
 R, with `dplyr`, `stringr`, `janitor`, `ggplot2` and `gt`.
 
-## License
-
-Released under the MIT License. See `LICENSE` if you add one.
 
 ## Contact
 
